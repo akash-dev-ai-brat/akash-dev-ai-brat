@@ -27,6 +27,7 @@ Currently exploring: **RAG systems · Computer Vision pipelines · MLOps · Defe
 | Project | Domain | Tech | Live |
 |---------|--------|------|------|
 | [🏋️ AI Fitness Coach](https://github.com/akash-dev-ai-brat/ai-fitness-coach) | Computer Vision · Full Stack | React, MediaPipe, Supabase | [▶ Demo](https://ai-fitness-coach.vercel.app) |
+| [🩺 MediVoice](https://github.com/akash-dev-ai-brat/medivoice) | Clinical AI · NLP · LLM | Whisper, medspaCy, LLaMA 3.3, FastAPI | [▶ Demo](#) |
 | [📄 AI Resume Analyzer](https://github.com/akash-dev-ai-brat/ai-resume-analyzer) | NLP · Generative AI | Gemini AI, Streamlit, PyMuPDF | [▶ Demo](#) |
 | [📈 Stock Forecasting](https://github.com/akash-dev-ai-brat/stock-forecasting) | Time Series · ML | Prophet, LSTM, Streamlit | [▶ Demo](#) |
 | [🎭 EmoSense AI](https://github.com/akash-dev-ai-brat/emosense-ai) | Computer Vision | CNN, OpenCV, Streamlit | [▶ Demo](#) |
@@ -46,7 +47,10 @@ Currently exploring: **RAG systems · Computer Vision pipelines · MLOps · Defe
 `React` `Vite` `Tailwind CSS` `Streamlit` `FastAPI` `Supabase` `PostgreSQL`
 
 **Generative AI**
-`Google Gemini AI` `OpenAI API` `LangChain` `RAG` `Prompt Engineering`
+`Google Gemini AI` `OpenAI API` `LangChain` `Groq` `RAG` `Prompt Engineering`
+
+**NLP & Speech**
+`medspaCy` `OpenAI Whisper` `spaCy` `ICD-10 Mapping`
 
 **Tools**
 `Git` `Docker` `Vercel` `GitHub Actions` `VS Code`
