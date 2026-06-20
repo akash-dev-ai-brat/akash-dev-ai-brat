@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi, I'm Akash Nath 👋
+<h1>Hi, I'm Akash Nath 👋</h1>
+<h3>AI & Data Science Student · Building AI Products That Actually Work</h3>
 
-### AI & Data Science Student · Building AI Products That Actually Work
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-nath-5aa816293/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=flat&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akashnath.nath01@gmail.com)
+<a href="https://www.linkedin.com/in/akash-nath-5aa816293/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=flat&logo=vercel&logoColor=white" /></a>
+<a href="mailto:akashnath.nath01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -28,6 +27,7 @@ Currently exploring: **RAG systems · Computer Vision pipelines · MLOps · Defe
 |---------|--------|------|------|
 | [🏋️ AI Fitness Coach](https://github.com/akash-dev-ai-brat/ai-fitness-coach) | Computer Vision · Full Stack | React, MediaPipe, Supabase | [▶ Demo](https://ai-fitness-coach.vercel.app) |
 | [🩺 MediVoice](https://github.com/akash-dev-ai-brat/medivoice) | Clinical AI · NLP · LLM | Whisper, medspaCy, LLaMA 3.3, FastAPI | [▶ Demo](#) |
+| [🛡️ CyberGuard AI](https://github.com/akash-dev-ai-brat/cyberguard-ai) | Cybersecurity · ML · XAI | XGBoost, SHAP, FastAPI, Streamlit | [▶ Demo](#) |
 | [📄 AI Resume Analyzer](https://github.com/akash-dev-ai-brat/ai-resume-analyzer) | NLP · Generative AI | Gemini AI, Streamlit, PyMuPDF | [▶ Demo](#) |
 | [📈 Stock Forecasting](https://github.com/akash-dev-ai-brat/stock-forecasting) | Time Series · ML | Prophet, LSTM, Streamlit | [▶ Demo](#) |
 | [🎭 EmoSense AI](https://github.com/akash-dev-ai-brat/emosense-ai) | Computer Vision | CNN, OpenCV, Streamlit | [▶ Demo](#) |
@@ -60,16 +60,20 @@ Currently exploring: **RAG systems · Computer Vision pipelines · MLOps · Defe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akash-dev-ai-brat&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-dev-ai-brat&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akash-dev-ai-brat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-dev-ai-brat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=akash-dev-ai-brat" />
+</div>
+
+<div align="center">
+  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=akash-dev-ai-brat&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
 
 ## 🎯 Currently Working On
 
-- 🔐 **CyberGuard AI** — ML-powered network intrusion detection system (coming soon)
-- 🤖 **DocIntel** — RAG-powered document intelligence platform (coming soon)
+- 🤖 **DocIntel** — RAG-powered document intelligence platform *(coming soon)*
+- 👁️ **SentinelVision** — AI-powered crowd anomaly detection for defense *(coming soon)*
 - 📚 Deepening expertise in MLOps, LLM orchestration, and defense-sector AI
 
 ---
